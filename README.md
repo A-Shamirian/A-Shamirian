@@ -1,5 +1,5 @@
 
-![Image Alt text](images/Hi, I'm Annie.png)
+![Header image](/images/Hi, I'm Annie.png)
 
 <!--
 **A-Shamirian/A-Shamirian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
