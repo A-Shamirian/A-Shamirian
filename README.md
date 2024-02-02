@@ -1,5 +1,5 @@
 
-![Image Alt text](/images/Hi, I'm Annie.png
+![Image Alt text](https://www.canva.com/design/DAF7nYiMHOs/da632z7lztNv0V4d2gzAKA/view?utm_content=DAF7nYiMHOs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <!--
 **A-Shamirian/A-Shamirian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
