@@ -1,4 +1,5 @@
 
+![Image Alt text](/Hi, I'm Annie.png
 
 <!--
 **A-Shamirian/A-Shamirian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
