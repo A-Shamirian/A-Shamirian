@@ -1,5 +1,5 @@
 
-![Header image](github banner.gif)
+![Header image](banner.gif)
 
 <!--
 **A-Shamirian/A-Shamirian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
